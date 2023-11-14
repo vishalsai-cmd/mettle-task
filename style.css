@@ -1,0 +1,86 @@
+Body{
+    background-color: black;    
+}
+.title{
+    color:red;
+    font-size: 8rem;
+    align-items: center;
+    text-align: center;
+}
+.para{
+    color:white;
+    width:50rem;
+    text-align:center;
+    align-items: center;
+    margin:auto;
+}
+.para2{
+    color:white;
+    width:50rem;
+    text-align:center;
+    align-items: center;
+    margin:auto;
+}
+.workshop1{
+    border: 1px solid red;
+    border-radius: 2rem;
+    margin: auto;
+    width: 60rem;
+    box-shadow: red;
+}
+.content>img{
+    width:20rem;
+    height:25rem;
+    border:1px solid red;
+    border-radius:2rem;
+}
+.content{
+    padding:2rem;
+    width:40rem;
+}
+.flex-row{
+    display:flex;
+    flex-direction: row;
+}
+.bt{
+    background-color: red;
+    color:white;
+    width:5rem;
+    height:2rem;
+    border-radius:0.5rem;
+}
+.additional{
+    color:white;
+    font-size:4rem;
+    margin:auto;
+    align-items:center;
+    text-align:center;
+}
+.content1{
+    padding:2rem;
+    width:40rem;
+}
+.content1>img{
+    width:20rem;
+    height:20rem;
+    border:1px solid red;
+    border-radius:2rem;
+}
+.content2{
+    padding:2rem;
+    width:40rem;
+}
+.content2>img{
+    width:20rem;
+    height:20rem;
+    border:1px solid red;
+    border-radius:2rem;
+}
+.bt2{
+    background-color: red;
+    color:white;
+    width:5rem;
+    height:2rem;
+    align-items:center;
+    margin:auto;
+}
